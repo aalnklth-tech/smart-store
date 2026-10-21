@@ -1,0 +1,8 @@
+{
+	"appId": "com.smartstore.pos",
+	"appName": "Smart Store",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
